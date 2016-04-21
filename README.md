@@ -1,1 +1,3 @@
-# Hypnotize-codebits-code-academy
+# Hypnotize-codebits-codeAcademy
+
+A static web page to play with hypnotism.
